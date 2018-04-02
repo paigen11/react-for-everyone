@@ -1,0 +1,34 @@
+{
+  "name": "react-for-everyone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigen11/react-for-everyone.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Paige Niedringhaus",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.7.*",
+    "babel-loader": "^6.2.*",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.5.*",
+    "webpack": "^1.12.*",
+    "webpack-dev-server": "^1.14.*"
+  },
+  "dependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/paigen11/react-for-everyone/issues"
+  },
+  "homepage": "https://github.com/paigen11/react-for-everyone#readme"
+}
